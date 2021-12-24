@@ -1,3 +1,4 @@
-git is awesome!
-new line
-experiment with amend
+Git is Awesome!
+New line.
+Experiment with amend.
+Experiment with index
